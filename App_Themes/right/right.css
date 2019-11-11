@@ -1,0 +1,26 @@
+﻿body,ul,li,img,p,ol,h1,h2,h3,div {padding:0;margin:0;}
+
+#content11{width:1000px;margin:0 auto;}
+
+#left11 p{padding:10px 0px 10px 5px;font-size:10px;}
+#left11 h4{padding:12px 0px 2px 20px;color:#795B01;}
+#wenzi11{padding:0px 0px 0px 10px; list-style:none;}
+#wenzi11 li{line-height:30px;background:url(../../images/dot.png) no-repeat 2px 10px;padding-left:3px;}
+#wenzi11 a{text-decoration:none;font-size:12px;color:#000;padding-left:18px;}
+#wenzi11 span{float:right;padding-right:5px;}
+#wenzi11 a:hover{color:#f00;}
+
+#wenzi22{padding:20px 0px 0px 20px; list-style:none;}
+#wenzi22 li{line-height:30px;background:url(../../images/dot.png) no-repeat 2px 10px;padding-left:3px;}
+#wenzi22 a{text-decoration:none;font-size:12px;color:#000;padding-left:18px;}
+#wenzi22 span{float:right;padding-right:20px;}
+#wenzi22 a:hover{color:#f00;}
+
+#leftt{float:left;}
+#rightt{float:right;}
+#rightt{background:url(../../images/xiangxi1.jpg) no-repeat; width:766px;height:455px;margin-top:20px;}
+#rightt h3{color:#fff;padding:10px 0px 0px 45px; }
+
+
+#page{padding:30px 0px 20px 50px;}
+#page table{width:80%;}

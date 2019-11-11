@@ -1,0 +1,53 @@
+﻿body,ul,li,img,p,ol,h1,h2,h3,div {padding:0;margin:0;}
+
+#logo,#nav,#footer,#content,#line,#line1{width:1000px;margin:0 auto;}
+#content3{width:770px;float:right;}
+
+body{font-size:14px;}
+
+.clear{clear:both;}
+
+
+#logo{background:url(../images/logo.jpg) no-repeat;height:153px;}
+
+
+#nav{background:url(../images/nav.jpg) no-repeat;height:30px;}
+#nav ul{list-style:none;}
+#nav ul li{float:left;}
+#nav ul li a{ background :url(../images/例13-bg2.jpg) no-repeat; width:90px; height:33px;
+          display:block; color:#986416; margin-right:20px; text-decoration:none;
+          text-align:right ; line-height:33px; font-weight:bold; font-size:14px; padding-right:8px;
+             }
+#nav ul li a:hover{ background:url(../images/例13-bg3.jpg) no-repeat;color:#000;}
+#nav ul li p{color:#222222;padding-top:8px;}
+
+
+#line{border-bottom:1px solid #fff;height:1px;clear:both;}
+#line1{border-bottom:4px solid #FC8503;height:4px;clear:both;}
+
+#left{width:225px;float:left;color:#000;}
+#left1 h4,#left2 h4{padding:12px 0px 2px 20px;color:#795B01;}
+#left1 p{padding:0px 0px 10px 5px;font-size:15px;line-height:30px;color:#7B5900;}
+
+#left2 p{padding:10px 0px 10px 5px;font-size:10px;}
+#wenzi1{padding:0px 0px 0px 10px; list-style:none;}
+#wenzi1 li, #wenzi2 li, #wenzi3 li, #wenzi4 li{line-height:30px;background:url(../images/dot.png) no-repeat 2px 10px;padding-left:3px;}
+#wenzi1 a,  #wenzi2 a,  #wenzi3 a,  #wenzi4 a{text-decoration:none;font-size:12px;color:#000;padding-left:18px;}
+#wenzi1 span,#wenzi2 span{float:right;padding-right:5px;}
+#wenzi1a:hover,#wenzi2 a:hover,#wenzi3 a:hover,#wenzi4 a:hover{color:#f00;}
+#wenzi3,#wenzi4{padding:10px 0px 0px 10px; list-style:none;}
+#wenzi3 span,#wenzi4 span{float:right;padding-right:15px;}
+#wenzi2{padding:40px 0px 0px 10px; list-style:none;}
+
+#left3 p{padding:60px 0px 10px 5px;font-size:10px;}
+#down p{padding:18px 0px 5px 45px;color:#fff;}
+
+#top,#down,#gundong{float:right;}
+#middle1,#middle2{float:left;}
+#right1{float:right;margin:5px;}
+#right2{float:right;margin-left:15px;}
+
+#gundong{width:760px;height:140px;}
+#demo a{text-decoration:none;}
+#footer{background:#FBF2BF; padding-top:10px;height:60px;}
+#footer p{text-align:center;line-height:23px;}
